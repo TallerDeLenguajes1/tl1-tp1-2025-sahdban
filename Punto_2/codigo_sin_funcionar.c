@@ -21,5 +21,5 @@ int main() {
     duplicar_numero(&valor1);
     printf("El primer valor duplicado es: %d\n", valor1);
 
-    return 0
+    return 0;
 }

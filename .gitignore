@@ -1,2 +1,5 @@
 #ignorar lo siguiente
 ignorado.txt
+/.vscode 
+*.exe 
+
