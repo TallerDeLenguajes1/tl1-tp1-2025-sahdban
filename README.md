@@ -35,4 +35,6 @@ Scanf: En la línea scanf("%d", valor1); falta el operador de dirección &.
 
 Paso por valor (No modifica el original): La función duplicar_numero(int numero) recibe una copia del valor. El cambio numero = numero * 2 ocurre solo dentro de la función. 
 
-        
+### punto 4
+
+el resultado es el mismo ya que un puntero es una variable cuyo valor es la direccion de memoria de otra variable. En cambio en el punto 4 se obtiene un resultado diferente por que el puntero en si es una variable por lo tanto el programa le asigna una direccion de memoria. 
